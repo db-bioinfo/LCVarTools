@@ -1,0 +1,2 @@
+# Safe copy
+rsync -av --progress --partial /mnt/ngs/G400/V350330077/CGP/333040_V350330077_L0* .
